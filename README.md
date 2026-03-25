@@ -1,4 +1,4 @@
-# Cognifyz-web-dev-task
+# Cognifyz-web-dev-task-04
 🚀 Cognifyz Web Developer Internship – Landing Page
 
 📌 Project Overview
